@@ -6,9 +6,9 @@ parts:
 - caption: Details
   chapters:
     - file: logistics
-    - url: https://2024.hackweek.io/
+    - url: https://2024.hackweek.io/index.html?jump_to=schedule
       title: Schedule
-    - url: https://2024.hackweek.io/
+    - url: https://2024.hackweek.io/index.html?jump_to=team
       title: Team
     - file: CoC
 - caption: Preparation
