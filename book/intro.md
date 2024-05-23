@@ -11,7 +11,7 @@
 
 ```{admonition} Quick links for the event
 :class: seealso
+* [NASA Earth Sciences & UW Hackweek 2024](https://2024.hackweek.io/)
 * JupyterHub: {{ jupyterhub_url }}
 * GitHub organization: {{ github_org_url}}
-* Projects Spreadsheet: {{ project_spreadsheet_url }}
 ```
