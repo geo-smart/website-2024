@@ -11,7 +11,10 @@
 
 ```{admonition} Quick links for the event
 :class: seealso
+* [NASA Earth Sciences & UW Hackweek 2024](https://2024.hackweek.io)
+  * [SnowEx Track JupyterBook](https://snowex-2024.hackweek.io)
+  * [ICESat-2 Track JupyterBook](https://icesat-2-2024.hackweek.io)
+  * [GeoSMART Track JupyterBook](https://geosmart-2024.hackweek.io)
 * JupyterHub: {{ jupyterhub_url }}
 * GitHub organization: {{ github_org_url}}
-* Projects Spreadsheet: {{ project_spreadsheet_url }}
 ```
