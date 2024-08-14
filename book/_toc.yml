@@ -19,7 +19,9 @@ parts:
   chapters:
     - file: tutorials/index
       sections:
-        - file: tutorials/example/tutorial-notebook
+        - file: tutorials/decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning.ipynb
+        - file: tutorials/decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning.ipynb
+        - file: tutorials/decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning.ipynb
 - caption: Projects
   chapters:
     - file: projects/index
