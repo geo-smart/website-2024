@@ -19,9 +19,9 @@ parts:
   chapters:
     - file: tutorials/index
       sections:
-        - file: tutorials/decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning.ipynb
-        - file: tutorials/decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning.ipynb
-        - file: tutorials/decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning.ipynb
+        - file: tutorials/decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning
+        - file: tutorials/decision_trees/01.script/02.tutorial_post_processing_xgboost_automatic_tuning
+        - file: tutorials/decision_trees/01.script/03.tutorial_post_processing_xgboost_evaluation
 - caption: Projects
   chapters:
     - file: projects/index
