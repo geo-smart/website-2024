@@ -29,6 +29,8 @@ dependencies:
   - scikit-learn
   - geopandas
   - shapely
+  - pyarrow
+  - fastparquet
   - pip:
     - jinja-markdown==1.210911
     - joblib
