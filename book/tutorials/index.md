@@ -6,4 +6,4 @@ Below you'll find a table keeping track of all tutorials presented at this event
 
 | Tutorial | Topics | Datasets |  Recording Link |
 | -  | - | - |  - |
-| [Example Notebook](./example/tutorial-notebook.ipynb) | Jupyter Book formatting, ipyleaflet | n/a |  Not recorded |
+| [Machine Learning for Post-Processing NWM Data](./decision_trees/01.script/01.tutorial_post_processing_xgboost_tuning.ipynb) | Decision trees and XGBoost | n/a |  Not recorded |
