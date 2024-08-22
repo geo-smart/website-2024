@@ -17,4 +17,8 @@ Here is our current list of project for our {{dates}} {{ hackweek }} hackweek:
 
 | Project Name (with link to GitHub repo) | Short Description | Project Lead(s) |
 |:--------|:--------|:-----|
-| [Snow-Extrapolation](https://github.com/geo-smart/Snow-Extrapolation) | Goal: Improve National Snow Model (NSM) prediction performance in the Sierra Nevada mountains through domain constraints and the exploration of different ML algorithms. | Ryan Johnson |
+| [Mind The Chl Gap](https://github.com/geo-smart/mind-the-chl-gap) | Neural network models for Chloraphyll-a gap-filling for remote-sensing products | Shridhar Sinha & Eli Holmes |
+| [Production-oriented SWE Forecasting](https://github.com/geo-smart/swe_forecasting_prod) | Developing a robust and scalable workflow for predicting snow water equivalent in the context of the western United States | Ziheng Sun |
+| [Multi-target Gaussian Process Regression for 3D Mapping](https://github.com/geo-smart/mind-the-chl-gap) |  Developing a multi-target Gaussian Process Regression (GPR) model to predict engineering soil classification and soil layering in three dimensions | Morgan Sanger |
+| [Crunchy Snow](https://github.com/geo-smart/crunchy-snow) | Machine learning models for Sentinel-1 SAR backscatter snow depth retrieval | Quinn Brencher |
+
