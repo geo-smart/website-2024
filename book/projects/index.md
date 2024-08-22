@@ -13,7 +13,7 @@ You can find our comprehensive guide for organizing projects before, during, and
 
 ## List of Projects
 
-Here is our current list of project for our {{dates}} {{ hackweek }} hackweek:
+Here is our current list of project for our {{dates}} {{ hackweek }}:
 
 | Project Name (with link to GitHub repo) | Short Description | Project Lead(s) |
 |:--------|:--------|:-----|
