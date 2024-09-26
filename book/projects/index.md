@@ -22,3 +22,36 @@ Here is our current list of project for our {{dates}} {{ hackweek }}:
 | [Multi-target Gaussian Process Regression for 3D Mapping](https://github.com/geo-smart/mind-the-chl-gap) |  Developing a multi-target Gaussian Process Regression (GPR) model to predict engineering soil classification and soil layering in three dimensions | Morgan Sanger |
 | [Crunchy Snow](https://github.com/geo-smart/crunchy-snow) | Machine learning models for Sentinel-1 SAR backscatter snow depth retrieval | Quinn Brencher |
 
+## Project Posters
+
+### Mind the Chl Gap
+```{image} ./posters/Mind-the-CHL-Gap-geo-smart-poster.jpg
+:alt: Mind the Chl Gap Poster
+:class: bg-primary mb-1
+:width: 700px
+:align: center
+```
+
+### Production-oriented SWE Forecasting
+```{image} ./posters/SWE-forecasting-prod-slides.jpg
+:alt: SWE Forecasting Poster
+:class: bg-primary mb-1
+:width: 700px
+:align: center
+```
+
+### Multi-target GPR for 3D Mapping
+```{image} ./posters/Hackweek2024-multi-gpr-soil.jpg
+:alt: Multi-GPR Poster
+:class: bg-primary mb-1
+:width: 700px
+:align: center
+```
+
+### Crunchy Snow
+```{image} ./posters/crunchy-snow-2024.jpg
+:alt: Crunchy Snow Poster
+:class: bg-primary mb-1
+:width: 700px
+:align: center
+```
